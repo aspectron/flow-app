@@ -10,6 +10,7 @@
   "keywords": [],
   "license": "MIT",
   "dependencies": {
+    "@aspectron/flow-async": "*",
     "@aspectron/flow-utils": "*",
     "@aspectron/flow-rpc": "*"
   },
