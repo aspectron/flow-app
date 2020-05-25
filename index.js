@@ -1,2 +1,3 @@
 const App = require("./lib/app");
-module.exports = App;
+const Applet = require("./lib/applet");
+module.exports = { App, Applet };
