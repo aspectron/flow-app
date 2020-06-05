@@ -1,7 +1,7 @@
 {
   "name": "@aspectron/flow-app",
   "version": "0.0.3",
-  "description": " ",
+  "description": "Application Foundation",
   "main": "index.js",
   "repository": {
     "type": "git",
@@ -32,6 +32,7 @@
     "index.js",
     "lib",
     "README.md",
+    "LICENSE",
     ".jsdoc.js"
   ]
 }
